@@ -1,5 +1,6 @@
 ---
 name: research-all
+license: MIT
 description: The user's default research skill. Fans out one question across every available research lane — multi-search-engine SERP coverage, deep-research synthesis, last30days community pulse, agent-reach platforms, web-access browser reading, academic search, and a codebase lane — then merges them into one cited answer. Works in Claude Code, Codex, and WorkBuddy with runtime fallbacks. Use it EVERY time the user says 조사, 조사해줘, 리서치, research, 알아봐, 찾아봐, "다 돌려", or asks what is needed to build something and the answer depends on outside sources. Use it instead of calling deep-research, multi-search-engine, web-access, last30days, agent-reach or search alone. Skip only for a one-fact lookup that needs no sources.
 ---
 
